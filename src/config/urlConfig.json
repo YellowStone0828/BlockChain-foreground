@@ -1,0 +1,7 @@
+{
+  "server_url": "https://901581c8ede44eb39e41edc8b1302155",
+  "block_chain": "vp1.us.blockchain.ibm.com:5001",
+  "chain_code": "chaincode",
+  "registrar": "registrar",
+  "chain_code_id_path": "https://github.com/stevenkcolin/learn2/demo7"
+}

@@ -1,0 +1,198 @@
+[
+    {
+        "enrollId": "admin",
+        "enrollSecret": "bcb24f54b3",
+        "affiliation": "group1",
+        "username": "admin",
+        "secret": "bcb24f54b3",
+        "password": "test"
+    },
+    {
+        "enrollId": "WebAppAdmin",
+        "enrollSecret": "182e7549e3",
+        "affiliation": "group1",
+        "username": "WebAppAdmin",
+        "secret": "182e7549e3",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type1_0",
+        "enrollSecret": "d930f083ba",
+        "affiliation": "group1",
+        "username": "user_type1_0",
+        "secret": "d930f083ba",
+        "role": "admin",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type1_1",
+        "enrollSecret": "a5396d03f3",
+        "affiliation": "group1",
+        "username": "user_type1_1",
+        "secret": "a5396d03f3",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type1_2",
+        "enrollSecret": "39926e8f40",
+        "affiliation": "group1",
+        "username": "user_type1_2",
+        "secret": "39926e8f40",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type1_3",
+        "enrollSecret": "78a7f8f4c8",
+        "affiliation": "group1",
+        "username": "user_type1_3",
+        "secret": "78a7f8f4c8",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type1_4",
+        "enrollSecret": "2e35f8fc65",
+        "affiliation": "group1",
+        "username": "user_type1_4",
+        "secret": "2e35f8fc65",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type2_0",
+        "enrollSecret": "c8d21dd3a9",
+        "affiliation": "group1",
+        "username": "user_type2_0",
+        "secret": "c8d21dd3a9",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type2_1",
+        "enrollSecret": "90d16ac160",
+        "affiliation": "group1",
+        "username": "user_type2_1",
+        "secret": "90d16ac160",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type2_2",
+        "enrollSecret": "ed8e5edca8",
+        "affiliation": "group1",
+        "username": "user_type2_2",
+        "secret": "ed8e5edca8",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type2_3",
+        "enrollSecret": "c82e68ba87",
+        "affiliation": "group1",
+        "username": "user_type2_3",
+        "secret": "c82e68ba87",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type2_4",
+        "enrollSecret": "e88a16658b",
+        "affiliation": "group1",
+        "username": "user_type2_4",
+        "secret": "e88a16658b",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type4_0",
+        "enrollSecret": "fafeca2334",
+        "affiliation": "group1",
+        "username": "user_type4_0",
+        "secret": "fafeca2334",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type4_1",
+        "enrollSecret": "fb4f49b558",
+        "affiliation": "group1",
+        "username": "user_type4_1",
+        "secret": "fb4f49b558",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type4_2",
+        "enrollSecret": "157ee8e7d4",
+        "affiliation": "group1",
+        "username": "user_type4_2",
+        "secret": "157ee8e7d4",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type4_3",
+        "enrollSecret": "2ae6de2bdb",
+        "affiliation": "group1",
+        "username": "user_type4_3",
+        "secret": "2ae6de2bdb",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type4_4",
+        "enrollSecret": "69d20acd06",
+        "affiliation": "group1",
+        "username": "user_type4_4",
+        "secret": "69d20acd06",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type8_0",
+        "enrollSecret": "2673024a92",
+        "affiliation": "group1",
+        "username": "user_type8_0",
+        "secret": "2673024a92",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type8_1",
+        "enrollSecret": "c03a0b333c",
+        "affiliation": "group1",
+        "username": "user_type8_1",
+        "secret": "c03a0b333c",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type8_2",
+        "enrollSecret": "ba1cc33761",
+        "affiliation": "group1",
+        "username": "user_type8_2",
+        "secret": "ba1cc33761",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type8_3",
+        "enrollSecret": "6f3e411948",
+        "affiliation": "group1",
+        "username": "user_type8_3",
+        "secret": "6f3e411948",
+        "role": "normal",
+        "password": "test"
+    },
+    {
+        "enrollId": "user_type8_4",
+        "enrollSecret": "b6185f4826",
+        "affiliation": "group1",
+        "username": "user_type8_4",
+        "secret": "b6185f4826",
+        "role": "normal",
+        "password": "test"
+    }
+]
